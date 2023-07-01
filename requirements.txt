@@ -1,0 +1,6 @@
+pip install --pre bibtexparser 
+# 注意PyPI上的是v1，即使是pre版本也不是最新的v2
+# 文件上推薦這樣裝最新版
+# pip install --no-cache-dir --force-reinstall git+https://github.com/sciunto-org/python-bibtexparser@main
+
+pandas
