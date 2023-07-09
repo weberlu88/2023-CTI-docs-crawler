@@ -161,3 +161,4 @@ cython_debug/
 
 # Crawled files
 malpedia/htmls/*
+malpedia/pdfs/*
